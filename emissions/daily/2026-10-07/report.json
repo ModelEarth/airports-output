@@ -1,0 +1,11 @@
+{
+  "date": "2026-10-07",
+  "generated_at": "2026-10-10T09:06:39.147067+00:00",
+  "flights": 32151,
+  "total_co2_kg": 152748691.38452268,
+  "model": {
+    "FUEL_KG_PER_KM": 3.0,
+    "FIXED_FUEL_KG": 500.0,
+    "CO2_KG_PER_KG_FUEL": 3.16
+  }
+}
