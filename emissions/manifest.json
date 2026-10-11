@@ -1,0 +1,81 @@
+{
+  "generated_at": "2026-10-10T09:06:39.147067+00:00",
+  "model": {
+    "FUEL_KG_PER_KM": 3.0,
+    "FIXED_FUEL_KG": 500.0,
+    "CO2_KG_PER_KG_FUEL": 3.16
+  },
+  "latest": "2026-10-09",
+  "dates": {
+    "2026-10-03": {
+      "flights": 26957,
+      "total_co2_kg": 129551158.86458018,
+      "files": {
+        "flights.csv": "a4fb0921011e70f6597cd505c5ba6e1aec69d92a812e5b2d60954e0fcd9f64e5",
+        "routes.csv": "cbe18f711018209f01d063cee159e1667f1fbb76e7c79e06711e3ac868e678cc",
+        "airports.csv": "4daa6c629a8c9a05cab6f2ad45da2a26d9bd86ddd5dca82a0396b85160c6c5a8",
+        "report.json": "7dbbc80da667747c31c02948e7ea9b237dc3b5c73bd27d969cb3b3cad4f0ca85"
+      }
+    },
+    "2026-10-04": {
+      "flights": 26766,
+      "total_co2_kg": 136503059.80518374,
+      "files": {
+        "flights.csv": "c5420507386e9d0ee121f7bd9467a3c01f3f3617096d0aa22b504b355743b486",
+        "routes.csv": "bd6167341bdb843098f3c9f6680c7e2cb1f8131e23e9b9c79c75e09eda97b8f0",
+        "airports.csv": "ad8529c89fed851e4d1153df059df862e2b67709dfbf60b8932c569e4ee36571",
+        "report.json": "b6820385b9a1c2fabdcc577803b9fc7452778d03521118e9038433a38f31a04d"
+      }
+    },
+    "2026-10-05": {
+      "flights": 29318,
+      "total_co2_kg": 146746920.00293446,
+      "files": {
+        "flights.csv": "ebab05f1d43bec6d9f050d82ccccbb85d63aea85a70f8353a3360cb17ceb0a4b",
+        "routes.csv": "6165b9b4505382c076eb83c0a17eec1a1bd8acb266c9b587586c00ac522f1118",
+        "airports.csv": "3abc6571c5c292f540e4e81ecbbb312b0313d01dac37342181513a8a0fbbf36f",
+        "report.json": "a10fcaaca571550383118d59e3194b9490ba6e060f1815f322401659ba1f11aa"
+      }
+    },
+    "2026-10-06": {
+      "flights": 31007,
+      "total_co2_kg": 148336356.97730666,
+      "files": {
+        "flights.csv": "72e22ac2503292de2da120b9cd1020e3d28e15d005a52d4ca9113c6630740143",
+        "routes.csv": "68a53bf6f3df7fa76e393dcc5b4eacc961ff07446d53e8defc30acf1554642d2",
+        "airports.csv": "d8e5d17a4505683b162dc3e32486688dba37e48bc9d00e4ae1abbcd294f15f6d",
+        "report.json": "65afe2d625d97a0d863abeae4a349a0144ec9301564ea071e93fc5c95a1154f7"
+      }
+    },
+    "2026-10-07": {
+      "flights": 32151,
+      "total_co2_kg": 152748691.38452268,
+      "files": {
+        "flights.csv": "b0cd29a6a73012ae96fe1568a4c76432bcb707f587054cddd7f1794e6c5dc51b",
+        "routes.csv": "5234bf990891aeceed7ee0944776780ce87b1dd51e85d6cb8beb2b3c0b348fcf",
+        "airports.csv": "56b49f31ce6a975772efecdcc2418e0bdd15ed8d9a7543a2310d16db8a75e167",
+        "report.json": "2eea370def5b1c6fa53aa994fcfc7776cce0b30982f1cb190b22997c8dd7dd21"
+      }
+    },
+    "2026-10-08": {
+      "flights": 32629,
+      "total_co2_kg": 157716684.08618703,
+      "files": {
+        "flights.csv": "06be2c71709cd674e0bafd4fb947af842c8b3bb0caf7af957887d9a765462d85",
+        "routes.csv": "d9d26ae4e2cf16a398d854999252cdd507b6316ecc94421c0eb816f69241f170",
+        "airports.csv": "a3ae1b487dd814485fc19c58f5b4c33a45e97bb7c93737c805990c0ce1105d13",
+        "report.json": "a7e2ba95c224c9d00b87654f181787738f6285a06ca0fb35e5e3bf6f4c9a9ed5"
+      }
+    },
+    "2026-10-09": {
+      "flights": 31579,
+      "total_co2_kg": 154658961.92380846,
+      "files": {
+        "flights.csv": "444092a84751d5fb20e7abe23531a0b7d298ff95ad32391210c2fce36026abdc",
+        "routes.csv": "c679e1423e41fe307c0ffa490dc91b945e81e4aabe7abe119e1ad7c39b537e79",
+        "airports.csv": "15012b1cf6c77af77454b3955b52efcf22f3fb2abce308149e92db76be7920bb",
+        "report.json": "607866cd0a04fee60e9afa00c085c393cdf28fe617deb35b9f50c24a109b83e6"
+      }
+    }
+  }
+}
